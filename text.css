@@ -1,0 +1,34 @@
+#TT{
+    font-weight: 700;
+    text-align: center;
+    
+    font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+}
+.ti{
+    text-align: center;
+    text-shadow: 10px 10px 10px;
+    color: blueviolet;
+}
+p{
+white-space: nowrap;
+text-overflow: ellipsis;
+}
+    p:hover{
+        overflow: visible;
+    
+    }
+h1::after{
+   content: " to all";
+}
+h1::first-letter{
+    color: chartreuse;
+}
+p::first-line{
+    color: brown;
+}
+div{
+    text-align: center;
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-9QD-1abiV0d8MXX48Ue-8iawNx3PwYUb2dSj2tg8&s')
+}

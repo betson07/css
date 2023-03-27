@@ -1,0 +1,20 @@
+body{
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/330/852/desktop-wallpaper-7-pirate-ship-jack-sparrow-ship.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.para1{
+   text-align: center;
+   color: rgb(236, 236, 32);
+   font-size: xx-large; 
+}
+.jj{
+    text-align: center;
+    color: brown;
+}
+.jb{
+    font-size: x-large;
+}
+.ol{
+    float: right;
+}
